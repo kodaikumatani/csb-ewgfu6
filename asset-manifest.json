@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kodaikumatani.github.io/csb-ewgfu6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/main.feccbe7f.chunk.js",
+    "main.js.map": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/main.feccbe7f.chunk.js.map",
+    "runtime-main.js": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/runtime-main.df51ae6e.js",
+    "runtime-main.js.map": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/runtime-main.df51ae6e.js.map",
+    "static/js/2.6811d96c.chunk.js": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/2.6811d96c.chunk.js",
+    "static/js/2.6811d96c.chunk.js.map": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/2.6811d96c.chunk.js.map",
+    "index.html": "https://kodaikumatani.github.io/csb-ewgfu6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kodaikumatani.github.io/csb-ewgfu6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6811d96c.chunk.js.LICENSE.txt": "https://kodaikumatani.github.io/csb-ewgfu6/static/js/2.6811d96c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df51ae6e.js",
+    "static/js/2.6811d96c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.feccbe7f.chunk.js"
+  ]
+}
